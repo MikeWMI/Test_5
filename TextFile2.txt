@@ -1,0 +1,7 @@
+Collaboration with GitHub#
+As part of our broader efforts to bring pull requests into Visual Studio Code in the past year, we reached out to numerous partners. After learning that the GitHub Editor team was already thinking along these lines, we began to work together in April to create a new pull request experience in Visual Studio Code. We developed a new extension to create and review pull requests integrated directly into Visual Studio Code through a set of new Visual Studio Code extension APIs.
+
+A more natural PR experience
+Today when reviewing source code, many of us are forced to leave our editors to use a simplified web interface or third party review tool that presents changes in a different editor. This makes it easy to get a visual overview of the changes, but most of the time you don’t have full context of where the changes were made and how they affect surrounding source code. Being outside of your normal coding environment also means that you don’t have your favorite keyboard shortcuts, themes, and customizations. More importantly, it means that you don’t have an environment with the power to navigate the source code and validate that the changes you are reviewing actually work as expected.
+
+The new pull request extension changes this with a new Pull Requests explorer inside the Source Control view in Visual Studio Code, where you can browse and interact with pull requests.
