@@ -1,0 +1,18 @@
+Temat (ka¿dy ma taki sam temat projektu)- prosty CRM:
+Funkcjonalnoœci:
+(na ocenê 3) Modu³ u¿ytkowników 
+zarz¹dzanie u¿ytkownikami (dodawania usuwanie, edycja, listowanie bez stronicowania)
+(na ocenê 4) Rozbudowany modu³ u¿ytkowników :
+listowanie u¿ytkowników ze stronicowaniem (serwer powinien stronicowaæ nie klient)
+logowanie poprzez tokeny/ew autoryzacja przy ka¿dym zapytaniu 
+role uprawnienia (admin, moderator, zwyk³y u¿ytkownik) - widoki zale¿ne od roli
+w edycji mo¿liwoœæ zmiany roli (mo¿e robiæ tylko administrator)
+Przetestowanie REST API za pomoc¹ POSTMAN'a (WCF -nie dotyczy)
+bêd¹c adminem mogê usuwaæ u¿ytkowników
+(na ocenê 5) Modu³ CRM 
+Firmy (usuwanie, edycja dodawanie listowanie stronicowanie)
+Notatki handlowe (przywi¹zane do firmy- firma mo¿e mieæ du¿o notatek handlowych) (usuwanie, edycja, dodawanie, listowanie bez stronicowania)
+Osoby kontaktowe (przywi¹zane do firmy- -firma mo¿e mieæ du¿o osób kontaktowych) (usuwanie, edycja, dodawanie, listowanie bez stronicowania)
+Filtrowanie firm (po bran¿y, dacie dodania)
+Szukanie osób kontaktowych po nazwiskach (serwer powinien wyszukiwaæ - nie klient)
+Sugerowana praca na GIT (np GitHub)
